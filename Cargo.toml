@@ -1,0 +1,5 @@
+[package]
+name = "bolt"
+version = "0.1.0"
+edition = "2021"
+description = "A programming language for rapid application development"
